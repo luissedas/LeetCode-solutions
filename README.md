@@ -1,1 +1,1 @@
-# Linkedin-Courses
+# LeetCode-solutions
